@@ -1,7 +1,6 @@
 # Rest-API-flutter-php-code
-
+##  this code is only for tutorial not commercal  use 
 ## create folder name (img) 
-
 Youtube : CtextViral
 Fluter code link : https://github.com/zeeshux7860/Flutter-REST-APi-php-mysql
 
