@@ -22,9 +22,9 @@ limitations under the
 
 
 Youtube : CTECHVIRAL
-Fluter code link : https://github.com/zeeshux7860/Flutter-REST-APi-php-mysql
+Fluter code link: https://github.com/zeeshux7860/Flutter-REST-APi-php-mysql
 
-Php REST API link :  https://github.com/zeeshux7860/Rest-API-flutter-php-code
+Php REST API link:  https://github.com/zeeshux7860/Rest-API-flutter-php-code
 
-Youtube video link :https://youtu.be/vb0n9hxu6Vw
+Youtube video link: https://youtu.be/vb0n9hxu6Vw
  
